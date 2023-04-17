@@ -16,9 +16,15 @@ from tkinter.messagebox import showinfo,showerror,showwarning
 import multiprocessing
 from multiprocessing import Pool
 
+
+
+
+#Программа для проведения нагрузки БД Oracle для компании ОАО Комета
+
 #список элементов для combobox-ов
 modelForComboBox = []
 nowCpu = 0
+test = 0
 
 OZY= 0
 MAX= 0
